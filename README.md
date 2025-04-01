@@ -1,6 +1,6 @@
 <h1 align="center">FileStreamBot</h1>
 <p align="center">
-  <a href="https://github.com/Avipatilpro/FileStreamBot">
+  <a href="https://github.com/K0reem0/FileStreamBot">
     <img src="https://graph.org/file/80d1f94e81bbc1acadb36.jpg" alt="Cover Image" width="550">
   </a>
 </p>  
@@ -17,7 +17,7 @@
 ### 🍁 About :
 
 <p align="center">
-    <a href="https://github.com/Avipatilpro/FileStreamBot">
+    <a href="https://github.com/K0reem0/FileStreamBot">
         <img src="https://i.ibb.co/ZJzJ9Hq/link-3x.png" height="100" width="100" alt="FileStreamBot Logo">
     </a>
 </p>
